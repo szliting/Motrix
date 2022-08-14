@@ -1,0 +1,8 @@
+version: 1.6.11
+files:
+  - url: Motrix-Setup-1.6.11.exe
+    sha512: PMBqy8rZNEpHkpY5EC4CEa8fhUV3PvhiefFBzFcC80Xxytb7vZ6O5hQ8TVdZM1WncKUbvRPUP7IiSpAK9Dlt/w==
+    size: 107829008
+path: Motrix-Setup-1.6.11.exe
+sha512: PMBqy8rZNEpHkpY5EC4CEa8fhUV3PvhiefFBzFcC80Xxytb7vZ6O5hQ8TVdZM1WncKUbvRPUP7IiSpAK9Dlt/w==
+releaseDate: '2021-05-15T14:38:43.120Z'
